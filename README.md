@@ -1,5 +1,5 @@
 Just a simple starter template for NextJS by shf.dev
 
 Includes:
-normalize.css
+tailwindCSS
 Often used components (spacer, container)
